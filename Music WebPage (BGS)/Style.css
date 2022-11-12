@@ -1,0 +1,21 @@
+
+
+
+#img-hover{
+    transition: transform .2s;
+    margin: 0 auto;
+    overflow:hidden;
+}
+
+#img-hover:hover{
+    transform: scale(1.1);
+} 
+
+.start-70{
+    left: -2rem;
+    bottom: -7rem;
+}
+
+#overflow-list{
+    height: 27rem;
+}
